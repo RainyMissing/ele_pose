@@ -35,7 +35,10 @@ python pred.py
 
 ## Training
 
-If you want to re-train the model or use your own data, you need to first put the training set into the data_of_you/ folder, and use the following command:
+If you want to re-train the model or use your own data, you need to first put the training set into the data_of_you/ folder, change the ta
+
+
+and use the following command:
 
 ```bash
 python train.py
